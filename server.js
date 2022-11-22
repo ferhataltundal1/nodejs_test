@@ -22,3 +22,5 @@ fs.writeFile("./text.txt", "utf8", (error, data) => {
 });
 
 console.log("Tester");
+
+console.log("You have new changes!");
