@@ -20,3 +20,5 @@ fs.readFile("./text.txt", "utf8", (error, data) => {
 fs.writeFile("./text.txt", "utf8", (error, data) => {
   console.log((data = "Deneme"));
 });
+
+console.log("Tester");
